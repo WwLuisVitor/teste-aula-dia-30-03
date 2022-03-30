@@ -1,1 +1,2 @@
 apenas testando 
+testando atualizar pelo proprio git(nao é certo)
